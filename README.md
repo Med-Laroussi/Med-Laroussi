@@ -3,16 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Transitioning+from+Engineering+to+QA+Automation;Bringing+Process+Rigor+(Lean+Six+Sigma)+to+Testing;Learning+Selenium%2C+Playwright+%26+Mobile+Testing;ISTQB+Foundation+Candidate" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Background-Industrial_Engineering-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Test_Automation-70a5fd?style=for-the-badge" />
-</p>
-
-<p>
-<a href="https://linkedin.com/in/laroussi-ma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 </div>
 
 ---
