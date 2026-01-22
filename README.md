@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=42&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Ex-Industrial%20Eng.&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=LAROUSSI%20Mohamed%20-Ali&fontSize=42&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Ex-Industrial%20Eng.&descSize=20&descAlignY=60" width="100%"/>
   
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Transitioning+from+Engineering+to+QA+Automation;Bringing+Process+Rigor+(Lean+Six+Sigma)+to+Testing;Learning+Selenium%2C+Playwright+%26+Mobile+Testing;ISTQB+Foundation+Candidate" alt="Typing SVG" />
@@ -29,13 +29,13 @@
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Med-Laroussi&theme=tokyonight" width="420"/>
 
-Bonjour ! Je suis **Mohamed Ali Larousi**, un **Ingénieur en Amélioration Continue & Digitalisation** expérimenté, opérant une transition stratégique vers l'**Assurance Qualité Logicielle (QA)**.
+Bonjour ! Je suis LAROUSSI Mohamed-Ali, **ingénieur en amélioration continue et digitalisation**, en transition vers **l’assurance qualité logicielle (QA)**.
 
-Fort d'un solide bagage en **Optimisation des Processus, Analyse de Données et Outils Digitaux** (Power Platform, SQL, VBA), je transfère aujourd'hui ma rigueur d'ingénieur vers le **Test Logiciel**. Mon expérience précédente inclut la validation d'interfaces utilisateurs et le test fonctionnel d'applications métiers, des compétences clés que je renforce désormais par l'automatisation.
+Fort d’une expérience en optimisation des processus, analyse de données et outils numériques (**Power Platform, SQL, VBA**), j’oriente aujourd’hui ma rigueur d’ingénieur vers le test logiciel. Mon parcours inclut la validation d’interfaces utilisateurs et le test fonctionnel d’applications métiers, compétences que je renforce désormais par l’automatisation.
 
 ### 🎯 Ma Stratégie de Pivot
-🚀 **De :** L'optimisation industrielle et la chasse aux gaspillages (Lean Six Sigma).  
-🎯 **Vers :** L'optimisation de la qualité logicielle et la chasse aux bugs (QA Automation).
+🚀 **De :** L'optimisation industrielle et la chasse aux gaspillages (**Lean Six Sigma**).  
+🎯 **Vers :** L'optimisation de la qualité logicielle et la chasse aux bugs (**QA Automation**).
 
 ### **Focus Actuel**
 - 📘 **Certification :** Préparation active de l'**ISTQB Foundation (CTFL)**.
