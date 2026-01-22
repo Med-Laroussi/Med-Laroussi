@@ -1,10 +1,23 @@
 <div align="center">
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Transitioning+from+Engineering+to+QA+Automation;Bringing+Process+Rigor+(Lean+Six+Sigma)+to+Testing;Learning+Selenium%2C+Playwright+%26+Mobile+Testing;ISTQB+Foundation+Candidate" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Background-Industrial_Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-70a5fd?style=for-the-badge" />
+</p>
+
+<p>
+<a href="https://linkedin.com/in/laroussi-ma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=40&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=Ing%C3%A9nieur%20QA%20%26%20Test%20Automation%20%7C%20Profil%20Hybride&descSize=20&descAlignY=60" width="100%"/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=De+l'Ing%C3%A9nierie+Industrielle+vers+la+QA+Automation;Rigueur+des+Processus+(Lean+Six+Sigma)+appliqu%C3%A9e+au+Test;Certification+ISTQB+Foundation+en+cours;Stack+Technique+%3A+Selenium%2C+Playwright%2C+Appium%2C+SQL" alt="Typing SVG" />
-</a>
 
 <p>
   <img src="https://img.shields.io/badge/Expertise-G%C3%A9nie_Industriel-orange?style=for-the-badge" />
@@ -70,9 +83,9 @@ Bien qu'en reconversion, j'ai appliqué les principes de la QA dans mes précéd
 
 | Rôle | Activités liées à la Qualité (QA) |
 |------|-----------------------------------|
-| **Ingénieur Digitalisation (Aptar)** | Réalisation de **Tests Fonctionnels**, vérification des flux de données et **Validation UI** d'applications métiers. |
-| **Ingénieur Supply Chain** | Développement d'outils (macros) et vérification de l'**Intégrité des Données** via SQL/Excel. |
-| **Amélioration Continue** | Application de l'analyse de causes racines (**Root Cause Analysis**), méthode similaire au tracking de bugs (8D, 5M). |
+| **Ingénieur Digitalisation (Aptar)** | Réalisation de Tests Fonctionnels, vérification des flux de données et Validation UI d'applications métiers. |
+| **Ingénieur Supply Chain** | Développement d'outils (macros) et vérification de l'Intégrité des Données via SQL/Excel. |
+| **Amélioration Continue** | Application de l'analyse de causes racines (Root Cause Analysis), méthode similaire au tracking de bugs (8D, 5M). |
 
 ---
 
