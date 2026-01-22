@@ -83,8 +83,8 @@ I have a strong understanding of **software testing fundamentals** and I am curr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/VOTRE_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:VOTRE_EMAIL@GMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/laroussi-ma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -92,8 +92,6 @@ I have a strong understanding of **software testing fundamentals** and I am curr
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=130&section=footer" width="100%"/>
-⭐ Passionate about delivering Bug-Free Software!
+⭐Passionate about delivering Bug-Free Software! ⭐ Made with ❤️ and 🚬☕ 
 </div>
-"# Med-Laroussi"  
-"# Med-Laroussi"  
-"# Med-Laroussi"  
+
