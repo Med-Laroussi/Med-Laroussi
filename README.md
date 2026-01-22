@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=45&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=Ing%C3%A9nieur%20QA%20%26%20Test%20Automation&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=42&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Ex-Industrial%20Eng.&descSize=20&descAlignY=60" width="100%"/>
   
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Transitioning+from+Engineering+to+QA+Automation;Bringing+Process+Rigor+(Lean+Six+Sigma)+to+Testing;Learning+Selenium%2C+Playwright+%26+Mobile+Testing;ISTQB+Foundation+Candidate" alt="Typing SVG" />
