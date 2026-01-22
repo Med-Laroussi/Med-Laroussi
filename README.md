@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+<div  align="center">
 <p>
   <img src="https://img.shields.io/badge/Expertise-G%C3%A9nie_Industriel-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-QA_Automation-70a5fd?style=for-the-badge" />
@@ -20,7 +20,7 @@
 <a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Med-Laroussi"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
+</div>
 </div>
 
 ---
