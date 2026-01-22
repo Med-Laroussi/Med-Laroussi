@@ -43,15 +43,6 @@ I have a strong understanding of **software testing fundamentals** and I am curr
 
 <br clear="right"/>
 
-<div align="center">
-
-### Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VOTRE_USERNAME&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VOTRE_USERNAME&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VOTRE_USERNAME&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VOTRE_USERNAME&theme=tokyonight" width="48%"/>
-
-</div>
 
 # 🛠 Skills
 
