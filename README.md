@@ -1,20 +1,19 @@
-"# Med-Laroussi"  
-"# Med-Laroussi"  <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=45&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=Junior%20QA%20Engineer%20%7C%20Test%20Automation&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=42&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Enthusiast%20%7C%20Engineer%20in%20Transition&descSize=20&descAlignY=60" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Junior+QA+Engineer+%7C+Software+Testing+Enthusiast;Preparing+ISTQB+Foundation+Certification;Exploring+Automation%3A+Selenium%2C+Playwright%2C+Cypress;Performance+Testing+with+JMeter+%26+K6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Transitioning+from+Engineering+to+QA+Automation;Bringing+Process+Rigor+(Lean+Six+Sigma)+to+Testing;Learning+Selenium%2C+Playwright+%26+Mobile+Testing;ISTQB+Foundation+Candidate" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-QA_Automation-70a5fd?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Background-Industrial_Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-70a5fd?style=for-the-badge" />
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/VOTRE_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:VOTRE_EMAIL@GMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/laroussi-ma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -23,59 +22,55 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VOTRE_USERNAME&theme=tokyonight" width="420"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Med-Laroussi&theme=tokyonight" width="420"/>
 
-Hi! I'm **Mohamed Ali Larousi**, a passionate **Junior QA Engineer** exploring the world of software quality and test automation.
+Hi! I'm **Mohamed Ali Larousi**, an experienced **Improvement & Digitalization Engineer** pivoting into **Software Quality Assurance (QA)**.
 
-I have a strong understanding of **software testing fundamentals** and I am currently preparing for the **ISTQB Foundation Level** certification. My goal is to build reliable automated tests and ensure high-quality software delivery.
+With a strong background in **Process Optimization, Data Analysis, and Digital Tools** (Power Platform, SQL, VBA), I am applying my engineering mindset to **Software Testing**. I have previously conducted functional testing and UI validation in industrial settings, and I am now specializing in **Test Automation frameworks**.
+
+### **My Career Pivot Strategy**
+🚀 **From:** Optimizing industrial processes & removing waste (Lean Six Sigma).
+🎯 **To:** Optimizing software quality & removing bugs (QA Automation).
 
 ### **Current Focus**
-- 📘 Preparing for **ISTQB Foundation** (Syllabus read ✅)
-- 🤖 Learning Automation: **Selenium, Playwright, Robot Framework, Cypress**
-- 📱 Exploring Mobile Testing with **Appium**
-- ⚡ Practicing Performance Testing (JMeter, Gatling, K6)
-
-### **Goals**
-<div align="center">
-  <img src="https://img.shields.io/badge/ISTQB-Foundation_Prep-blue?style=for-the-badge&logo=istqb" />
-  <img src="https://img.shields.io/badge/Automation-Mastery_Loading...-yellow?style=for-the-badge" />
-</div>
+- 📘 **Certification:** Preparing for **ISTQB Foundation (CTFL)**.
+- 🤖 **Automation:** Mastering **Selenium, Playwright, Robot Framework**.
+- 📱 **Mobile:** Exploring **Appium** for mobile test automation.
+- 🔧 **Tech Stack:** Leveraging my **SQL & Scripting** skills for backend testing.
 
 <br clear="right"/>
 
+<div align="center">
 
-# 🛠 Skills
+### Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Med-Laroussi&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Med-Laroussi&theme=tokyonight" width="48%"/>
+</div>
 
-### 🧪 Automation & Frameworks
-- **Web:** Selenium • Playwright • Cypress • Robot Framework
+# 🛠 Skills & Tech Stack
+
+### 🧪 QA Automation (In Progress)
+- **Web Automation:** Selenium WebDriver • Playwright • Cypress
 - **Mobile:** Appium
 - **Performance:** JMeter • Gatling • K6
+- **Methodology:** ISTQB • Functional Testing • Regression Testing
 
-### 📚 Testing Concepts
-- Functional & Non-Functional Testing
-- ISTQB Foundation Knowledge (CTFL)
-- Test Case Design & Execution
-- Defect Reporting
-
-### 💻 Languages & Tools
-- Python • Java • JavaScript (Learning)
-- Git • GitHub
-- CI/CD Basics
+### 📐 Engineering & Data Background (My Core Assets)
+- **Data & Scripting:** SQL • RStudio • VBA (Macros) • Python
+- **Low-Code Dev:** Power Apps • Power Automate (Logic flows)
+- **Process Quality:** Lean Six Sigma • Problem Solving (8D, 5P) • Agile Management
 
 ---
 
-# 🚀 Learning Journey
+# 🚀 Practical Experience (Bridge to QA)
 
-<div align="center">
+Although I am transitioning, I have applied QA principles in my previous engineering roles:
 
-| Skill / Tool | Status |
-|------------|--------|
-| 📘 ISTQB Foundation | **In Progress 🔄** |
-| 🤖 Selenium & Playwright | **Practicing 💻** |
-| 📱 Mobile Testing (Appium) | **Exploring 🚀** |
-| ⚡ Performance Testing | **Basics Acquired ✔️** |
-
-</div>
+| Role | QA Related Activity |
+|------|---------------------|
+| [cite_start]**Digitalization Engineer (Aptar)** | conducted **Functional Tests**, data verification, and **UI Validation** for business apps. |
+| **Supply Chain Engineer** | [cite_start]Developed macro-based tools and verified **Data Integrity** via SQL/Excel[cite: 23, 42]. |
+| **Continuous Improvement** | [cite_start]Applied **Root Cause Analysis** (similar to bug tracking) using 8D & 5M methods[cite: 12]. |
 
 ---
 
@@ -83,7 +78,7 @@ I have a strong understanding of **software testing fundamentals** and I am curr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/laroussi-ma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/laroussi-ma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohamedali.laroussi.01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -92,6 +87,5 @@ I have a strong understanding of **software testing fundamentals** and I am curr
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=130&section=footer" width="100%"/>
-⭐Passionate about delivering Bug-Free Software! ⭐ Made with ❤️ and 🚬☕ 
+⭐ <i>"Quality is not an act, it is a habit."</i> — Pivoting with passion & rigor.
 </div>
-
