@@ -7,8 +7,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f4f7,50:e2e8f0,100:f2f4f7&height=220&section=header&text=Mohamed%20Ali%20Larousi&fontSize=40&fontColor=233452&animation=fadeIn&fontAlignY=35&desc=Ing%C3%A9nieur%20QA%20%26%20Test%20Automation%20%7C%20Profil%20Hybride&descSize=20&descAlignY=60" width="100%"/>
-
 <p>
   <img src="https://img.shields.io/badge/Expertise-G%C3%A9nie_Industriel-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-QA_Automation-70a5fd?style=for-the-badge" />
